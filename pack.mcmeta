@@ -1,6 +1,9 @@
 {
-  "pack": {
-    "pack_format": 100,
-    "description": "Players die upon touching ground"
-  }
+    "pack": {
+        "pack_format": 42,
+        "supported_formats": [1, 500],
+        "min_format": 1,
+        "max_format": 500,
+        "description": "Players die upon touching ground"
+    }
 }
