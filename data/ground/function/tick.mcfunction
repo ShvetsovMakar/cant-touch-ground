@@ -7,7 +7,6 @@ execute as @a at @s if block ~ ~-1 ~ minecraft:mycelium run kill @s
 execute as @a at @s if block ~ ~-1 ~ minecraft:sand run kill @s
 execute as @a at @s if block ~ ~-1 ~ minecraft:red_sand run kill @s
 execute as @a at @s if block ~ ~-1 ~ minecraft:snow_block run kill @s
-execute as @a at @s if block ~ ~-1 ~ minecraft:snow run kill @s
 execute as @a at @s if block ~ ~-1 ~ minecraft:ice run kill @s
 execute as @a at @s if block ~ ~-1 ~ minecraft:packed_ice run kill @s
 execute as @a at @s if block ~ ~-1 ~ minecraft:blue_ice run kill @s

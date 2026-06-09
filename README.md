@@ -13,7 +13,6 @@ If a player stands on any of natural surface blocks, they die immediately.
 - Sand
 - Red sand
 - Snow
-- Snow (layer)
 - Ice
 - Packed ice
 - Blue ice
