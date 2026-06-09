@@ -39,3 +39,7 @@ If a player stands on any of natural surface blocks, they die immediately.
 
 ### Server
 - Upload the .zip to the datapacks/ folder of your server world, then restart or run /reload.
+
+## 📥 Download from Modrinth
+
+[![Available on Modrinth](https://img.shields.io/badge/Get%20it%20on-Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/cant-touch-ground)
