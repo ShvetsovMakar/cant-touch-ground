@@ -1,7 +1,4 @@
-# 🌱 Can't Touch Ground
-*A Minecraft datapack that instantly kills players when they touch ground.*
-
-## 📖 Overview
+# 📖 Overview
 If a player stands on any of natural surface blocks, they die immediately.
 ### 💀 List of deadly blocks
 - Grass
@@ -29,7 +26,7 @@ If a player stands on any of natural surface blocks, they die immediately.
 - Warped nylium
 - Endstone
 
-## 📦 Installation
+# 📦 Installation
 ### Singleplayer
 - Download the latest release .zip file.
 
@@ -40,6 +37,6 @@ If a player stands on any of natural surface blocks, they die immediately.
 ### Server
 - Upload the .zip to the datapacks/ folder of your server world, then restart or run /reload.
 
-## 📥 Download from Modrinth
+# 📥 Download from Modrinth
 
 [![Available on Modrinth](https://img.shields.io/badge/Get%20it%20on-Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/cant-touch-ground)
