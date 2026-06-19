@@ -27,15 +27,11 @@ If a player stands on any of natural surface blocks, they die immediately.
 - Endstone
 
 # 📦 Installation
-### Singleplayer
 - Download the latest release .zip file.
 
 - Place it inside your world's datapacks/ folder.
 
 - Run /reload in the world (or re‑enter the world).
-
-### Server
-- Upload the .zip to the datapacks/ folder of your server world, then restart or run /reload.
 
 # 📥 Download from Modrinth
 
